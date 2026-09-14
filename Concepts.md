@@ -839,42 +839,6 @@ repeated themselves under different names:
 > *"All models are wrong. Some are useful. The skill is knowing which, when, and why."*
 > — George Box (paraphrased)
 
----
-
-
-Great call. I'll write `Concepts.md` section by section — starting with the intro + Lab 02, then adding each lab one at a time.
-
----
-
-**Chunk 1 — Intro + Lab 02: Messy Data & Leakage-Safe Features**
-
-Edited Concepts.md
-
-✅ **Chunk 1 done** — [Concepts.md](file:///Users/leonida/Documents/code/AML_Book-Data/Concepts.md) created with the Intro + Lab 02.
-
----
-
-**Chunk 2 — Lab 03: Evaluation & Business Cost**
-
-Edited Concepts.md
-
-✅ **Chunk 2 done** — Lab 03 added. Now **Chunk 3 — Lab 04: Trees, Ensembles & Optuna**.
-
-Viewed Concepts.md:245-251
-Edited Concepts.md
-
-✅ **Chunk 3 done** — Lab 04 added. Now **Chunk 4 — Lab 05: Unsupervised Learning**.
-
-Viewed Concepts.md:405-407
-Edited Concepts.md
-
-✅ **Chunk 4 done** — Lab 05 added. Now **Chunk 5 — Lab 06: Neural Networks / MLP**.
-
-Viewed Concepts.md:528-528
-Viewed Concepts.md:524-528
-Edited Concepts.md
-
-✅ **Chunk 5 done** — Lab 06 added. Now the final chunk — **Lab 07: CNNs + Closing Arc**.
 
 
 ---
